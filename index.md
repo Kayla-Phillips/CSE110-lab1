@@ -33,10 +33,10 @@ This is my GitHub account (link it)
   - Web app to track data on the number of individuals in each disease state at any given time
   - Used JavaScript and HTML
   - Summarized results in a paper in collaboration with another student about how our projects increased the accessibility of FAVITES-Lite
-  - Link to paper: https://doi.org/10.1101/2024.06.10.24308702
+  - [Paper](https://doi.org/10.1101/2024.06.10.24308702)
 - Blackjack App with Genetic Algorithm
   - Developed a full-stack web application to play Blackjack against the computer 
   - Used a genetic algorithm to create a hint feature which recommends a move to the user based on its training
   - Used Python, JavaScript, HTML, and CSS
-  - https://blackjack-by-grace-and-kayla.onrender.com/
+  - [Website](https://blackjack-by-grace-and-kayla.onrender.com/)
 
