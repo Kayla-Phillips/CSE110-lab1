@@ -1,8 +1,9 @@
-# User Page
+# Kayla Phillips' User Page
 ## Table of Contents
 - [Personal](#personal)
 - [Programming](#programming)
 - [My Projects](#my-projects)
+  
 ## Personal
 Hi, my name is **Kayla Phillips**! 
 I'm a second year Computer Science major at UCSD.
