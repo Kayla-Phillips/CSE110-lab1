@@ -1,9 +1,9 @@
-### User Page
-# Table of Contents
-link to personal
-link to Programming
-link to projects
-# Personal
+# User Page
+## Table of Contents
+- [Personal](#personal)
+- [Programming](#programming)
+- [My Projects](#my-projects)
+## Personal
 Hi, my name is **Kayla Phillips**! 
 I'm a second year Computer Science major at UCSD.
 Because life can get stressful, one of my favorite sayings is:
@@ -14,7 +14,7 @@ I just competed at NAIGC Nationals for the first time!
 ![Gym Team Photo](./IMG_0858.JPG)
 If anyone is interested in joining UCSD's Club Gymnastics team, visit our [website](https://recreation.ucsd.edu/competitive-sports/gymnastics/).
 
-# Programming
+## Programming
 The `programming languages` that I've worked with in the past include:
 - Python
 - Java
@@ -29,7 +29,7 @@ My favorite CS classes I've taken at UCSD so far:
 2. CSE 12: Basic Data Structures and Object-Oriented Design
 
 This is my [GitHub account](https://github.com/Kayla-Phillips)
-**My Projects**
+## My Projects
 - [x] FAVITES-Lite Visualization Tool: 
   - Web app to track data on the number of individuals in each disease state at any given time
   - Used JavaScript and HTML
