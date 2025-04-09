@@ -11,7 +11,8 @@ Because life can get stressful, one of my favorite sayings is:
 
 In my free time, I <ins>love</ins> to do gymnastics.
 I just competed at NAIGC Nationals for the first time!
-<img src="./IMG_0858.JPG" width="400"/>
+
+[Gym Team Photo](./IMG_0858.JPG)
 
 If anyone is interested in joining UCSD's Club Gymnastics team, visit our [website](https://recreation.ucsd.edu/competitive-sports/gymnastics/).
 
