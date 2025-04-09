@@ -35,7 +35,7 @@ This is my [GitHub account](https://github.com/Kayla-Phillips)
   - Used JavaScript and HTML
   - Summarized results in a paper in collaboration with another student about how our projects increased the accessibility of FAVITES-Lite
   - [Paper](https://doi.org/10.1101/2024.06.10.24308702)
-  - [HIV simulation](./HIV Screenshot.png)
+  - ![HIV simulation](./HIVScreenshot.png)
 - [x] Blackjack App with Genetic Algorithm
   - Developed a full-stack web application to play Blackjack against the computer 
   - Used a genetic algorithm to create a hint feature which recommends a move to the user based on its training
