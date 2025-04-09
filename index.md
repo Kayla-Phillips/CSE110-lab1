@@ -6,7 +6,9 @@
   
 ## Personal
 Hi, my name is **Kayla Phillips**! 
+
 I'm a second year Computer Science major at UCSD.
+
 Because life can get stressful, one of my favorite sayings is:
 > One day at a time.
 
