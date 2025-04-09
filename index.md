@@ -13,7 +13,7 @@ Because life can get stressful, one of my favorite sayings is:
 In my free time, I <ins>love</ins> to do gymnastics.
 I just competed at NAIGC Nationals for the first time!
 
-[Gym Team Photo](./IMG_0858.JPG)
+[Gymnastics Team Photo at Nationals](./IMG_0858.JPG)
 
 If anyone is interested in joining UCSD's Club Gymnastics team, visit our [website](https://recreation.ucsd.edu/competitive-sports/gymnastics/).
 
@@ -31,7 +31,8 @@ My favorite CS classes I've taken at UCSD so far:
 1. CSE 100: Advanced Data Structures
 2. CSE 12: Basic Data Structures and Object-Oriented Design
 
-This is my [GitHub account](https://github.com/Kayla-Phillips)
+[My GitHub account](https://github.com/Kayla-Phillips)
+
 ## My Projects
 - [x] FAVITES-Lite Visualization Tool: 
   - Web app to track data on the number of individuals in each disease state at any given time
